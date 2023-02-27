@@ -1,0 +1,95 @@
+html {
+    font-size: 12px;
+}
+
+#first-div {
+    background-color: black;
+    min-height: 100vh;
+    margin: -10px;
+}
+
+#first-div-title {
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+    text-align: center;
+    padding: 100px;
+    margin-top: 0;
+
+}
+
+#first-div-subtitle {
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    text-align: center;
+    padding: 1px;
+    
+}
+
+#first-div-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80px;
+    max-height: 80px;
+    margin-top: 20vh;
+}
+
+#second-div {
+    background-color: rgb(212, 219, 225);
+    min-height: 100vh;
+    margin: 0;
+    margin-left: -10px;
+    margin-right: -10px;
+    
+}
+
+.image1 {
+    height: 800px;
+}
+
+#third-div {
+    background-color: black; 
+    padding-bottom: 2vw;
+    padding-right: 2vw;
+    padding-left: 2vw;
+    margin-top:-10px;;
+    margin-left: -10px;
+    margin-right: -10px;
+    
+    
+}
+#third-div-content {
+    color:#fff;
+    font-family: 'Lora', serif;
+    margin-top: 5.5em;
+    margin-bottom: 2em;
+}
+
+#third-div-title {
+    font-size: 4em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  
+#third-div-text {
+    margin-top: 2.5em;
+    font-size: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+}
+  
+#author-text {
+    color: #fff;
+    font-size: 1.2em;
+    text-align: center;
+    margin-top: 2vw;
+}
+
+#two columns {
+    margin: 0;
+}
